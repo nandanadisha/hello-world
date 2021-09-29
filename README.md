@@ -1,2 +1,3 @@
 # hello-world
-Repository trial
+hi fellas!
+nadisha here, i'm here to learn about github.
